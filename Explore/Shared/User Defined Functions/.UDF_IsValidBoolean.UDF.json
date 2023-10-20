@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "7a63d1supYtfFLJhpExooF",
+    "name" : "UDF_IsValidBoolean",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS441000000000009"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This function checks if the values of the column are valid boolean or not.\n\nArguments:\ncolumn: [string] Column name on which the check is to be applied.\nboolValue1: [string] Valid boolean value 1 for the column\nboolValue2: [string] Valid boolean value 2 for the column\n\nReturn Type: \n[Numeric] Returns 0 for invalid rows and 1 for valid rows.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.868Z",
+  "objectRefs" : [ ]
+}

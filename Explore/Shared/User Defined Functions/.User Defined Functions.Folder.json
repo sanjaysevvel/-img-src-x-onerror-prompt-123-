@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "39WVMDhcp03gvdLkMrQpsq",
+    "name" : "User Defined Functions",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "This folder contains the User Defined Functions used by various Assets in Data Fabric.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-20T07:31:33.863Z",
+  "objectRefs" : [ ]
+}

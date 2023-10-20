@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "7sIOK8bww0udmQ3sWgLLUK",
+    "name" : "UDF_NotNullCheck",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS441000000000006"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This function checks if the values of the column are not null.\n\nArguments:\ncolumn: [string] Column name on which the check is to be applied.\n\nReturn Type:\n[Numeric] Returns 0 for invalid rows and 1 for valid rows.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.868Z",
+  "objectRefs" : [ ]
+}

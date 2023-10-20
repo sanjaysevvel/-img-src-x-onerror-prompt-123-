@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "2P1V7YeqImrd9pSyL0dfUt",
+    "name" : "UDF_LengthCheck",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS441000000000008"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This function checks if the values of the column are equal to the specified length or not. \n\nArguments: \ncolumn: [string] Column name on which the check is to be applied. \nlength: [numeric] Valid length of the values.\n\nReturn Type:\n[Numeric] Returns 0 for invalid rows and 1 for valid rows.\n",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.863Z",
+  "objectRefs" : [ ]
+}

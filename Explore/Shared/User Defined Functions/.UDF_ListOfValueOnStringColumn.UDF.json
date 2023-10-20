@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "5pSSer2IOsRhi03SJDzQYt",
+    "name" : "UDF_ListOfValueOnStringColumn",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS44100000000000A"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This is the user defined function for checking the list of value DQM on column with string type.\n\nInput : \n\nAttribute : Attribute on which LOV check is to be applied.\n\nIsMandatory: FALSE if this attribute is optional in the implementation. TRUE if this attribute is mandatory. If FALSE then null value will be considered as valid value.\n\nValue1 to Value8 : List of valid values for this attribute. if implementation does not have all 8 values in the valid list then user can place two single quotes (blank) in place of these values.\n\nReturn type : Numeric indicating 0 (FALSE) as invalid and 1 (TRUE) as valid.\n",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.869Z",
+  "objectRefs" : [ ]
+}

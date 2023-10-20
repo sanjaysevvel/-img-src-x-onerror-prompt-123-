@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "9AR57XvpUsihedr3Q4gjuV",
+    "name" : "UDF_IsDateInGivenFormat",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS441000000000007"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This function tests if given date is in proper format or not. If yes, it return true, if not, it returns false.\n\nArguments:\n\nAttribute : Date column on which user needs to check the format.\n\nIsMandatory : TRUE if this field is mandatory, FALSE if its optional in the implementation. If FALSE then null value will be treated as valid date. If TRUE then null will be treated as invalid date value.\n\nDateFormat : Date format on which user will have to check the date. If wrong format is given then it will throw error and pipeline will break\n\nReturn : TRUE if date is valid as per the format. False if date is invalid as per the format.\n",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.869Z",
+  "objectRefs" : [ ]
+}

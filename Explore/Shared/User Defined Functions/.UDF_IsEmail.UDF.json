@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "lHJzgdpE08ViZJSqdPAlsB",
+    "name" : "UDF_IsEmail",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS44100000000000B"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This function checks if provided email is in valid format or not.\n\nArgument:\n\nAttribute : Attribute on which email check should be applied.\n\nReturn : TRUE if email is valid, FALSE if email is invalid",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.863Z",
+  "objectRefs" : [ ]
+}

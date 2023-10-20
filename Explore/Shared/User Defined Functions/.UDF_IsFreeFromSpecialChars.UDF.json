@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "cqwIrKX86kJeezGOWEw6Mi",
+    "name" : "UDF_IsFreeFromSpecialChars",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "017BS441000000000005"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This user defined function can be used to check if given column has any invalid characters in it.\n\nArguments:\n\nAttribute : Column on which special character check is to be applied.\n\nChar1 to Char9 : Characters which are considered as invalid as per the implementation.\n\nReturn: TRUE for valid value, FALSE for invalid value.\n\nExample:\n\n\n\n",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-20T07:31:33.866Z",
+  "objectRefs" : [ ]
+}
