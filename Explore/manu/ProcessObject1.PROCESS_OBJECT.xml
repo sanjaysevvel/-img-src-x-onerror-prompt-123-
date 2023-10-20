@@ -1,0 +1,32 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>1jlMfVMTonQYWeI-gt-37527-2023-10-13T07:41:49.849Z::po.xml</types1:EntryId>
+      <types1:Name>ProcessObject1</types1:Name>
+      <types1:MimeType>application/xml+processobject</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>manu_mrel_23</types1:CreatedBy>
+      <types1:CreationDate>2023-10-13T07:41:50Z</types1:CreationDate>
+      <types1:ModifiedBy/>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:Entry>
+         <processObject xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2011/06/avosHostEnvironment.xsd"
+                        displayName="ProcessObject1"
+                        isByCopy="true"
+                        name="ProcessObject1">
+            <description/>
+            <tags/>
+            <detail/>
+         </processObject>
+      </types1:Entry>
+      <types1:GUID>0EcASpWK96dcqNl1tD1jwP</types1:GUID>
+      <types1:DisplayName>ProcessObject1</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2023-10-20T08:48:18.144Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>
