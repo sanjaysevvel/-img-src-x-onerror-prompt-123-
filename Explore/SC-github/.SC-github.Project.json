@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aMOGi7f1kaDgo5wDsbpfAh",
+    "name" : "SC-github",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-20T07:24:33.040Z",
+  "objectRefs" : [ ]
+}
